@@ -54,16 +54,6 @@ Built a Python script demonstrating the foundational patterns every AI agent use
 
 > 💡 **Key Insight:** Every AI agent is fundamentally: `Send prompt → Get response → Process result → Decide next action`
 
-### Day 2: Set Up Agent Project with Git
-**File:** [`day2_lab.py`](day2_lab.py)
-
-Set up a professional project structure with Git version control:
-- Initialized Git repository with proper `.gitignore`
-- Created branch workflow (feature branches → merge to main)
-- Established project structure for future agent development
-
----
-
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3.12
