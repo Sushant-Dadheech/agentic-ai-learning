@@ -114,9 +114,6 @@ Following along? Star ⭐ this repo and follow my progress!
 
 ## 🔗 Connect
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **GitHub:** [Your GitHub URL]
-
----
+- **LinkedIn:** [https://www.linkedin.com/in/sushant-dadheech-007a53329/]
 
 *Built with dedication, one day at a time.* 🧱
