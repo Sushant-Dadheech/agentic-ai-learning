@@ -1,0 +1,12 @@
+{
+  "name": "Sushant",
+  "goal": "Become an Agentic AI expert",
+  "day": 1,
+  "skills_learned": [
+    "HTTP",
+    "JSON",
+    "API calls",
+    "Error handling"
+  ],
+  "confidence_level": 7
+}

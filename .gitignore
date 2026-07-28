@@ -1,0 +1,36 @@
+# API keys and secrets
+.env
+secrets.json
+*_key.txt
+*.key
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Large model files
+*.bin
+*.pt
+*.safetensors
+*.gguf
+
+# Logs
+*.log
+
+# PDF generators (not needed in repo)
+generate_pdf*.py
