@@ -96,7 +96,7 @@ agentic-ai-learning/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/agentic-ai-learning.git
+git clone https://github.com/Sushant-Dadheech/agentic-ai-learning.git
 cd agentic-ai-learning
 
 # Install dependencies
