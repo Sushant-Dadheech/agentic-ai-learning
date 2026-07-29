@@ -6,7 +6,13 @@
     "HTTP",
     "JSON",
     "API calls",
-    "Error handling"
+    "Error handling",
+    "Terminal/CLI commands",
+    "Git init, add, commit, log",
+    "Git branching and merging",
+    ".gitignore for secrets",
+    "Project structure for AI agents"
   ],
-  "confidence_level": 7
+  "confidence_level": 7,
+  "current_day": 2
 }
